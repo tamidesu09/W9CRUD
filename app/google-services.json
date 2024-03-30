@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "699563850258",
+    "firebase_url": "https://quotology-c8635-default-rtdb.firebaseio.com",
+    "project_id": "quotology-c8635",
+    "storage_bucket": "quotology-c8635.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699563850258:android:845702e45db94680de36cb",
+        "android_client_info": {
+          "package_name": "com.etcetera.quotology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3pwGP4FmnWsCQisvpA7rIosETcKuhHSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
